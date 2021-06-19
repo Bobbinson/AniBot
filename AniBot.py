@@ -52,8 +52,11 @@ def post_memes():
     subbreddit_names = subreddit_fetch.read().strip().split("\n")
     subreddit_fetch.close()
 
-    
 
+
+    ### Can embed in a while loop for an infinite iteration in a database ###
+   # while(True):
+    #    time.sleep(1800)
 
     # Make sure the extension is correct
     check_extension = False
