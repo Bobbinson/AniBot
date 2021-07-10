@@ -84,15 +84,4 @@ def post_memes():
     time.sleep(30)
 
 
-
-
 post_memes()
-
-
-
-    
-
-
-
-
-
