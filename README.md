@@ -2,6 +2,4 @@
 
 - For learning purposes only.
 
-- Can be found at https://twitter.com/AniB0t
 
-- Respectfully hosted on https://replit.com/
